@@ -1,0 +1,144 @@
+[Slide 1]
+The 'Operate' pillar plays a crucial role in ensuring that your automation initiatives run smoothly, remain compliant, and deliver the expected business value. Whether you're a business leader, IT professional, or an RPA enthusiast, understanding how to operate automation processes effectively is essential.
+
+
+[Slide 2]
+UiPath has identified four key capabilities as table stakes for enterprise technologies within the 'Operate' pillar: Analytics, Continuous Testing, Unified Management & Governance, and Flexible Deployment. These capabilities are the foundation for a robust and mature enterprise operating environments.
+
+
+Let's dive deeper into these capabilities:
+
+Analytics provides essential insights that allow you to make informed decisions and optimize your automation processes.
+
+Continuous Testing is a comprehensive testing framework that ensures the reliability and robustness of your automated workflows.
+
+Unified Management & Governance ensures central control and compliance across your automation initiatives, which is critical especially for large enterprises.
+
+Flexible Deployment, UiPath allows for easy deployment and scaling, making it a versatile solution for businesses of all sizes.
+
+[Slide 3]
+Now, let's explore the Analytics section, a vital component of the 'Operate' pillar within the UiPath Platform. Analytics, and specifically UiPath Insights, offers powerful capabilities for data-driven decision-making.
+
+UiPath Insights features three key dashboards:
+
+1. Robots Dashboard: Maximize robot utilization by categorizing it into attended and unattended automation, and plan capacity effectively.
+
+2. Processes Dashboard: Ensure smooth operations by tracking process success rates, diagnosing issues, and optimizing processes.
+
+3. Queues Dashboard: Streamline transactional operations by monitoring queues and handling exceptions efficiently.
+
+
+UiPath Insights transform data into actionable insights, enabling data-driven decision-making for CoE leads, developers, and business users. It's all about maximizing efficiency, identifying issues, and improving your automation processes.
+
+[Slide 4]
+Moving on to 'Continuous Testing,' UiPath Test Suite is your all-in-one solution for comprehensive testing, seamlessly integrated into your software delivery toolchain. It offers the flexibility to test virtually any technology, making it an invaluable asset for your automation journey.
+
+"UiPath Test Suite brings together essential components to supercharge your testing process:
+
+Test Manager: Allows you to manage your testing process, link automated test cases in Studio to manual test cases, assign test cases to requirements, and create defects directly from test results.
+
+Studio: Automatically generate tests for your RPA workflows and gain a deep understanding of activity coverage before deployment.
+
+Orchestrator: Execute test cases from Studio on testing robots in a scheduled manner or through CI/CD pipelines, ensuring a seamless and continuous testing process.
+
+UiPath Test Suite empowers you to achieve continuous testing excellence. It's about streamlining the testing process, integrating it with your development, and ensuring the quality and reliability of your RPA workflows. Continuous testing is no longer a challenge; it's a reality with UiPath
+
+[Slide 5]
+
+Now, let's explore the critical aspect of 'Unified Management and Governance'. When you choose the UiPath Business Automation Platform, whether through Automation Cloud or Automation Suite, you gain the ability to manage your entire automation ecosystem from a single, centralized location.
+
+Let's take a closer look at their capabilities.
+
+
+Monitoring and logging are integral for transparency and efficiency. The platform's monitoring and logging capabilities enable you to:
+
+Track activities within the platform.
+Ensure the proper functioning of automation.
+Monitor processes, log exceptions, and audit data.
+Customize alerts to respond to various scenarios promptly.
+
+Governance capabilities ensures secure and consistent management of your automation initiatives. These include:
+
+Unified Admin capabilities: Offering enterprise identity and user management, integrated organization and much more.
+
+Enterprise SaaS capabilities: Providing support for tenant-level multi-region deployment, compliance attestations, and advanced capabilities like delayed updates.
+
+Unified Deployment capabilities: Facilitating full-platform deployment, management, monitoring, and alerting, with options for self-hosted Serverless Robots and isolation features."
+
+
+
+Regardless of your chosen delivery method, whether through the cloud or on-premises, you enjoy a host of administrative capabilities. These include:
+
+Active Directory integration for simplified user management.
+Role-based access control, applicable across all tenants.
+On top of that, Automation Ops is included, providing your IT department with oversight and granular control over automation processes, while empowering your users to design and run efficient automation."
+
+
+UiPath's unified management and governance capabilities enable you to streamline your automation operations, manage them securely, and maintain the highest level of governance and compliance. Whether you're looking to optimize processes, cut operating costs, or ensure regulatory compliance, UiPath is your partner for success.
+
+
+[Slide 6]
+
+Now, let's delve into the 'Flexible Deployment' options offered by UiPath. When it comes to deploying your automation solutions, UiPath provides you with two distinctive deployment options, each tailored to meet specific needs
+
+Option one, 'Automation Cloud,' is the cloud-native UiPath Business Automation Platform delivered as Software as a Service (SaaS). Here's what makes it stand out:
+
+No platform installation or updates required
+
+Full UiPath Platform capabilities
+
+Highest flexibility and typically lowest Total Cost of Ownership (TCO)
+
+Uptime guarantee and security attestations
+
+=========Automation Suite======
+
+Option two, 'Automation Suite,' delivers your Business Automation Platform as a single containerized suite. Here's what you need to know:
+
+Simple One-package install
+
+Portal access to all services and integrations: Access all the services and integrations you need through a single portal.
+
+Host multiple organizations on one infrastructure: Automation Suite enables you to efficiently host multiple organizations on a single infrastructure.
+
+Kubernetes infrastructure for robust performance
+
+End-to-end support from UiPath
+
+Requires IT installation management and support
+
+
+[Slide 7]
+
+Let's dive deeper into the world of Automation Cloud Robots. UiPath Robots are the digital workforce that interacts with screens, systems, and data just like humans. They work alongside you to drive efficiency and reliability.
+
+
+First, there's the 'Attended Robot.' Think of it as your digital sidekick, always ready to assist with everyday tasks across various apps and systems
+
+Next, the 'Unattended Robot.' These bots excel at automating task-heavy, long-running workflows.
+
+"Then, we have the 'Automation Cloud™ Robot.' This is your go-to option when you need automation without worrying about infrastructure
+
+Finally, the 'Test Robot.' This one is designed for testing both robots and applications to ensure their reliability
+
+
+[Slide 8]
+
+Let's take a closer look at 'Automation Suite.'
+
+It’s the ‘Automation Cloud’ experience, but you run the show​
+
+With Automation Suite, you get the entire UiPath Business Automation Platform — or as much of it as you need — bundled into one package. Here's the key:
+
+Install Everything Once: Set it up once, and you're good to go. Deploy it in various environments, from the public cloud to air-gapped on-premises.
+
+Manage Everything Together: Seamlessly manage all aspects of your automation ecosystem, thanks to end-to-end support from UiPath."
+
+So, lead with Automation Suite when the customer needs complete control and has the IT will and capability to run the infrastructure. UiPath made it as efficient as possible, but we should be transparent with our customers that there is a cost and management tradeoff to be made for this self-hosted control at the enterprise scale
+
+
+[Outro]
+
+Remember, the UiPath Platform is more than just tools; it's a comprehensive solution that transforms how your organization operates. Your path to operational excellence starts with a strong foundation. 
+
+From unified management and governance to analytics, flexible deployment, and the power of Contiuous Testing frakework, the possibilities are endless.
